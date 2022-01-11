@@ -91,7 +91,7 @@ public class Main extends VerticalLayout {
            
 
         });
-
+/*
         countButton2.addClickListener(click -> {
             int c1 = Integer.parseInt(count1Field.getValue().toString());
             int c2 = Integer.parseInt(count2Field.getValue().toString());
@@ -130,7 +130,7 @@ public class Main extends VerticalLayout {
             new Thread(counter3).start();
 
         });
-
+*/
     }
 
 }
